@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76494577"
-     inkscape:cx="-140.88068"
-     inkscape:cy="676.50707"
+     inkscape:zoom="1.5298915"
+     inkscape:cx="208.69983"
+     inkscape:cy="895.83298"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -535,7 +535,7 @@
          sodipodi:role="line"
          id="tspan3282"
          x="494.90765"
-         y="352.26224">nnp,</tspan></text>
+         y="352.26224">n,p,</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
@@ -2478,5 +2478,16 @@
          x="645.82208"
          id="tspan4341"
          sodipodi:role="line">ta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:1.39999998px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="550.36578"
+       y="211.77972"
+       id="text3428"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3430"
+         x="550.36578"
+         y="211.77972">s</tspan></text>
   </g>
 </svg>

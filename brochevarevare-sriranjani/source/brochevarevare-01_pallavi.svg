@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76498481"
-     inkscape:cx="721.01673"
-     inkscape:cy="360.96672"
+     inkscape:zoom="1.0818519"
+     inkscape:cx="526.18109"
+     inkscape:cy="372.04724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1924,7 +1924,7 @@
          style="fill:none;stroke:#000000;stroke-width:1.00498557000000011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          transform="translate(-119.56011,-226.42032)"
-         d="m 582.83398,723.54272 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+         d="m 582.83398,723.54272 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82842 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67158 1.5,1.5 z"
          sodipodi:ry="1.5"
          sodipodi:rx="1.5"
          sodipodi:cy="723.54272"
