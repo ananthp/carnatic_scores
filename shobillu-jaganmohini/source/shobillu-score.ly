@@ -5,6 +5,7 @@
 \header {
   title = "Shobhillu Saptaswara (Kriti)"
   subtitle = "Jaganmohini"
+  subsubtitle = "Work in progress. Not finished yet. Feb 2, 2011"
   composer = "St. Tyagaraja"
   arranger = "arr. Ananth"
   meter = "Rupaka Thalam" 
@@ -37,17 +38,17 @@ pallavi = \relative sa' {
  
 
   ga4. ri8( sa)  ni | sa4 ga ma8 ma |
-  ga4. pa16( ma ga ri) sa( ni) | sa4 ga ma8 ma | \break
+  ga4. pa16( ma ga) ri( sa ni) | sa4 ga ma8 ma | \break
   
-  ga16( ma pa ma ga ma) pa( ma ga ri) sa( ni) | sa4 ga ma8 ma
-  ga16( ma pa ni pa ma) pa( ma ga ri) sa( ni) | sa4 ga ma8 ma \break
+  ga16( ma pa ma ga ma) pa( ma ga) ri( sa ni) | sa4 ga ma8 ma
+  ga16( ma pa ni pa ma) pa( ma ga) ri( sa ni) | sa4 ga ma8 ma \break
   
   ga16( ma pa ni sa ni) pa( ma ga ri) sa( ni) | sa( ga ma8) ga16( ma pa8) ma16( pa) ni8 \break
 
   
   
-  sa16( ni pa ma ga ma) pa( ma ga ri sa) ni |  sa( ga ma pa32 ma) ga16( ma pa ni32 pa) ma16( pa) ni8
-  sa8.( ri16) sa( ni) pa8 pa ma | ga16( ma pa8) ma16( pa) ni8 pa16 ni sa( ri) | \break
+  sa16( ni pa ma ga ma) pa( ma ga) ri( sa ni) |  sa( ga ma8) ga16( ma pa8) ma16( pa) ni8
+  sa8.( ri16) sa( ni) pa8 pa ma | ga16( ma pa8) ma16( pa) ni8 pa16 ni sa8 | \break
   
   sa16( ni pa ma ga ma) pa( ma ga ri sa) ni  |  sa( ga ma pa32 ma) ga16( ma pa ni32 pa) ma16( pa) ni8
   pa16( ni sa8) ga ri16( sa) ni( pa) ma8 | ga16( ma pa32 ni pa16) ma( pa) ni32( sa ni16) pa ni sa( ri) | \break

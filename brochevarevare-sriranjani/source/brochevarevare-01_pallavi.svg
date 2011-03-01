@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="brochevarevare-01_pallavi.svg">
+   sodipodi:docname="brochevarevare-01_pallavi.svg"
+   inkscape:export-filename="/mnt/documents/ananth/carnaticscores/carnatic_scores/brochevarevare-sriranjani/source/brochevarevare-01_pallavi.png"
+   inkscape:export-xdpi="125"
+   inkscape:export-ydpi="125">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0818519"
-     inkscape:cx="526.18109"
+     inkscape:cx="408.78979"
      inkscape:cy="372.04724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,13 +180,13 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
        x="73.886719"
-       y="1024.5145"
+       y="1023.6105"
        id="text3832"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="73.886719"
-         y="1037.0145"
-         style="font-size:12px;-inkscape-font-specification:Monospace;font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         y="1023.6105"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan3836">This version as taught by Sri. Peri Sriramamurthy</tspan></text>
     <g
        id="g5116">
@@ -1636,16 +1639,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:1.39999998000000003px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:1.39999998px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium"
        x="544.42841"
-       y="727.34283"
+       y="1023.6105"
        id="text6782"
-       sodipodi:linespacing="125%"
-       transform="translate(0,308.2677)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6784"
          x="544.42841"
-         y="727.34283">1/2</tspan></text>
+         y="1023.6105">1/2</tspan></text>
     <g
        id="g5063">
       <text
