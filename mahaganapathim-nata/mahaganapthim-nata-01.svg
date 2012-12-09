@@ -64,11 +64,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88277593"
-     inkscape:cx="372.04724"
-     inkscape:cy="526.18109"
+     inkscape:zoom="1.2484337"
+     inkscape:cx="422.89481"
+     inkscape:cy="144.18683"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -101,8 +101,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3033"
@@ -2637,7 +2636,7 @@
            x="220.8941"
            y="80.428123"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /></flowRegion><flowPara
-         id="flowPara3546">- Muthuswamy Dikshitar</flowPara></flowRoot>    <text
+         id="flowPara3546">Muthuswamy Dikshitar</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text3548"
        y="151.3429"
