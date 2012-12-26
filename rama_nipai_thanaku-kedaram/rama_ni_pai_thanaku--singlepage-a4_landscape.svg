@@ -14,7 +14,10 @@
    id="svg5642"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="rama_ni_pai_thanaku--singlepage-a4_landscape.svg">
+   sodipodi:docname="rama_ni_pai_thanaku--singlepage-a4_landscape.svg"
+   inkscape:export-filename="/home/ananth/Pictures/rama_ni_pai_thanaku--kedaram.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <sodipodi:namedview
      inkscape:document-units="mm"
      id="base"
@@ -24,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2484974"
-     inkscape:cx="574.05685"
-     inkscape:cy="605.57843"
+     inkscape:cx="526.1811"
+     inkscape:cy="372.04725"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
@@ -76,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
