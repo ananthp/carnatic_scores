@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg4321"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="template--spacing_etc.svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="336.72194"
+     inkscape:cy="281.7492"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4390"
+       units="mm"
+       empspacing="5"
+       dotted="false"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1mm"
+       spacingy="1mm" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4394"
+       units="mm"
+       empspacing="5"
+       dotted="true"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1mm"
+       spacingy="0.5mm"
+       color="#e50000"
+       opacity="0.1254902" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5455"
+       transform="translate(5.2865096e-6,-3.5433073)">
+      <g
+         transform="translate(8.4103562e-6,-24.803122)"
+         id="g5370">
+        <rect
+           y="761.81097"
+           x="297.63779"
+           height="19.488222"
+           width="3.5433071"
+           id="rect4500"
+           style="fill:#806600;stroke:#2f2f2f;stroke-width:0.91207266;stroke-miterlimit:6.19999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <path
+           style="color:#000000;fill:none;stroke:#2f2f2f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 297.6378,781.29919 -14.17323,0"
+           id="path4535"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(8.4103562e-6,-24.803122)"
+         id="g5374">
+        <rect
+           style="fill:#668000;stroke:#898989;stroke-width:0.99152738;stroke-miterlimit:6.19999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4498"
+           width="3.5433071"
+           height="23.03153"
+           x="304.7244"
+           y="761.81097" />
+        <path
+           style="color:#000000;fill:none;stroke:#898989;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 304.72441,784.8425 -21.25984,0"
+           id="path5366"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(8.4103562e-6,-24.803122)"
+         id="g5390">
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:2.5px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+           x="276.37796"
+           y="774.21259"
+           id="text4527"
+           sodipodi:linespacing="125%"><tspan
+             y="774.21259"
+             x="276.37796"
+             sodipodi:role="line"
+             id="tspan4529">pd</tspan></text>
+        <path
+           sodipodi:type="arc"
+           id="path5378"
+           style="fill:#000000;stroke:none"
+           sodipodi:cx="290.55118"
+           sodipodi:cy="777.75586"
+           sodipodi:rx="1.5"
+           sodipodi:ry="1.5"
+           d="m 292.05118,777.75586 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z" />
+        <path
+           sodipodi:type="arc"
+           id="path5380"
+           style="fill:#000000;stroke:none"
+           sodipodi:cx="279.92126"
+           sodipodi:cy="763.58264"
+           sodipodi:rx="1.5"
+           sodipodi:ry="1.5"
+           d="m 281.42126,763.58264 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z" />
+      </g>
+      <g
+         id="g5448">
+        <rect
+           y="737.00787"
+           x="265.74802"
+           height="12.401541"
+           width="3.5433071"
+           id="rect4504"
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:0.72758067;stroke-miterlimit:6.19999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:0.72758186;stroke-miterlimit:6.19999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4506"
+           width="3.5433071"
+           height="12.401582"
+           x="269.29135"
+           y="740.55121" />
+        <path
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.1, 0.1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 258.66142,749.40946 53.1496,0"
+           id="path4531"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           d="m 292.05118,777.75586 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
+           sodipodi:ry="1.5"
+           sodipodi:rx="1.5"
+           sodipodi:cy="777.75586"
+           sodipodi:cx="290.55118"
+           style="fill:#000000;stroke:none"
+           id="path5382"
+           sodipodi:type="arc"
+           transform="translate(-19.759831,-24.803098)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5434"
+           d="m 262.20473,737.00785 49.60629,0"
+           style="color:#000000;fill:none;stroke:#dddddd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <g
+       id="g5658">
+      <text
+         xml:space="preserve"
+         id="text5622"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Bold Italic"
+         x="240.03149"
+         y="715.74799"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan5624"
+           sodipodi:role="line"
+           x="240.03149"
+           y="715.74799">Sahityam</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5474"
+         d="m 246.0315,715.74801 69.32283,0"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.1, 0.1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="703.34644"
+         x="305.13287"
+         height="15.944897"
+         width="3.9862242"
+         id="rect5476"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <rect
+       y="719.29132"
+       x="306.25"
+       height="14.173205"
+       width="9.104331"
+       id="rect5706"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.44979179;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.69276202;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5664"
+       width="17.277559"
+       height="17.716536"
+       x="320.25"
+       y="715.74799" />
+    <rect
+       y="715.74799"
+       x="311.50986"
+       height="30.118134"
+       width="17.277559"
+       id="rect5666"
+       style="fill:#916f6f;fill-opacity:1;stroke:#000000;stroke-width:0.90325153;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <g
+       transform="translate(5.2865096e-6,24.803116)"
+       id="g5670">
+      <g
+         id="g5672"
+         transform="translate(8.4103562e-6,-24.803122)">
+        <rect
+           style="fill:#806600;stroke:#2f2f2f;stroke-width:0.91207266;stroke-miterlimit:6.19999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect5674"
+           width="3.5433071"
+           height="19.488222"
+           x="297.63779"
+           y="761.81097" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5676"
+           d="m 297.6378,781.29919 -14.17323,0"
+           style="color:#000000;fill:none;stroke:#2f2f2f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <g
+         id="g5678"
+         transform="translate(8.4103562e-6,-24.803122)">
+        <rect
+           y="761.81097"
+           x="304.7244"
+           height="23.03153"
+           width="3.5433071"
+           id="rect5680"
+           style="fill:#668000;stroke:#898989;stroke-width:0.99152738;stroke-miterlimit:6.19999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5682"
+           d="m 304.72441,784.8425 -21.25984,0"
+           style="color:#000000;fill:none;stroke:#898989;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <g
+         id="g5684"
+         transform="translate(8.4103562e-6,-24.803122)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text5686"
+           y="774.21259"
+           x="276.37796"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:2.5px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+           xml:space="preserve"><tspan
+             id="tspan5688"
+             sodipodi:role="line"
+             x="276.37796"
+             y="774.21259">pd</tspan></text>
+        <path
+           d="m 292.05118,777.75586 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
+           sodipodi:ry="1.5"
+           sodipodi:rx="1.5"
+           sodipodi:cy="777.75586"
+           sodipodi:cx="290.55118"
+           style="fill:#000000;stroke:none"
+           id="path5690"
+           sodipodi:type="arc" />
+        <path
+           d="m 281.42126,763.58264 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
+           sodipodi:ry="1.5"
+           sodipodi:rx="1.5"
+           sodipodi:cy="763.58264"
+           sodipodi:cx="279.92126"
+           style="fill:#000000;stroke:none"
+           id="path5692"
+           sodipodi:type="arc" />
+      </g>
+      <g
+         id="g5694">
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:0.72758067;stroke-miterlimit:6.19999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect5696"
+           width="3.5433071"
+           height="12.401541"
+           x="265.74802"
+           y="737.00787" />
+        <rect
+           y="740.55121"
+           x="269.29135"
+           height="12.401582"
+           width="3.5433071"
+           id="rect5698"
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:0.72758186;stroke-miterlimit:6.19999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path5700"
+           d="m 258.66142,749.40946 53.1496,0"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.1, 0.1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           transform="translate(-19.759831,-24.803098)"
+           sodipodi:type="arc"
+           id="path5702"
+           style="fill:#000000;stroke:none"
+           sodipodi:cx="290.55118"
+           sodipodi:cy="777.75586"
+           sodipodi:rx="1.5"
+           sodipodi:ry="1.5"
+           d="m 292.05118,777.75586 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="color:#000000;fill:none;stroke:#dddddd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 262.20473,737.00785 49.60629,0"
+           id="path5704"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       y="745.86615"
+       x="319.33661"
+       height="28.346449"
+       width="6.6476378"
+       id="rect5668"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.5435462;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0">
+      <desc
+         id="desc5720">Distance between Sangathis' baseline (for the same sahityam)</desc>
+      <title
+         id="title5718">Inter sangathi</title>
+    </rect>
+    <g
+       id="g5708"
+       transform="translate(-0.40846409,86.811008)">
+      <text
+         sodipodi:linespacing="125%"
+         y="715.74799"
+         x="240.03149"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Bold Italic"
+         id="text5710"
+         xml:space="preserve"><tspan
+           y="715.74799"
+           x="240.03149"
+           sodipodi:role="line"
+           id="tspan5712">Sahityam</tspan></text>
+      <path
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.1, 0.1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 246.0315,715.74801 69.32283,0"
+         id="path5714"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5716"
+         width="3.9862242"
+         height="15.944897"
+         x="305.13287"
+         y="703.34644" />
+    </g>
+    <rect
+       style="fill:#002b22;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5722"
+       width="7.0866141"
+       height="28.346457"
+       x="311.81104"
+       y="774.21259" />
+  </g>
+</svg>
