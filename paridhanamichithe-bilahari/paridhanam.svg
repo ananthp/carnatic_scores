@@ -15,20 +15,20 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="paridhanam.svg"
-   inkscape:export-filename="/home/ananth/Pictures/rama_ni_pai_thanaku--kedaram.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/ananth/Pictures/paridhanamicchithe.png"
+   inkscape:export-xdpi="150.00539"
+   inkscape:export-ydpi="150.00539">
   <sodipodi:namedview
      inkscape:document-units="mm"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2484337"
      inkscape:cx="564.89572"
-     inkscape:cy="274.95246"
+     inkscape:cy="755.55466"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
@@ -103,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
