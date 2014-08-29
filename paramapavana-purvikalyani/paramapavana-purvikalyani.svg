@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8638151"
-     inkscape:cx="226.74634"
-     inkscape:cy="318.19554"
+     inkscape:zoom="1.2216191"
+     inkscape:cx="526.18109"
+     inkscape:cy="372.04724"
      inkscape:current-layer="layer8"
      showgrid="false"
      units="mm"
@@ -128,7 +128,7 @@
          id="tspan5031"
          sodipodi:role="line" /></text>
     <flowRoot
-       transform="translate(40.238681,304.7827)"
+       transform="translate(40.238681,286.77381)"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
        id="flowRoot4209"
        xml:space="preserve"><flowRegion
@@ -142,8 +142,7 @@
          id="flowPara4215">font: FreeSerif</flowPara></flowRoot>    <g
        inkscape:label="titles-subs"
        id="layer6"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <text
          xml:space="preserve"
          style="font-size:16px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Italic"
@@ -304,9 +303,19 @@
            id="tspan4005"
            x="936.47107"
            y="405.8215">♯</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Italic"
+         x="746.08246"
+         y="758.66528"
+         id="text3435"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3437"
+           x="746.08246"
+           y="758.66528">Chitta Swaram</tspan></text>
     </g>
     <g
-       style="filter:url(#filter4040)"
        inkscape:label="sahityam"
        id="layer7"
        inkscape:groupmode="layer" />
@@ -570,14 +579,14 @@
       <text
          sodipodi:linespacing="125%"
          y="483.74512"
-         x="768.09985"
+         x="773.2561"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:2.5px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
          id="text4683"
          xml:space="preserve"><tspan
            id="tspan4685"
            sodipodi:role="line"
-           x="768.09985"
-           y="483.74512">ndd</tspan></text>
+           x="773.2561"
+           y="483.74512">nd</tspan></text>
       <text
          sodipodi:linespacing="125%"
          y="483.74512"
@@ -588,7 +597,7 @@
            id="tspan4689"
            sodipodi:role="line"
            x="830.21277"
-           y="483.74512">pp,;</tspan></text>
+           y="483.74512">dpp,;</tspan></text>
       <text
          xml:space="preserve"
          id="text4015"
@@ -676,7 +685,7 @@
            id="tspan4724"
            sodipodi:role="line"
            x="488.89401"
-           y="647.05481">snd,-sndsn</tspan></text>
+           y="647.05481">snd,-sn</tspan></text>
       <text
          xml:space="preserve"
          id="text4726"
@@ -1061,7 +1070,7 @@
            id="tspan4861"
            sodipodi:role="line"
            x="199.04097"
-           y="823.05255">s,,,r</tspan></text>
+           y="823.05255">s,,r</tspan></text>
       <text
          xml:space="preserve"
          id="text4863"
@@ -2139,50 +2148,46 @@
          sodipodi:linespacing="125%"
          transform="translate(0,308.2677)"><tspan
            sodipodi:role="line"
-           id="tspan3395"></tspan></text>
+           id="tspan3395" /></text>
       <text
-         sodipodi:linespacing="125%"
-         y="803.34979"
-         x="743.81848"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:2.50000000000000000px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         sodipodi:linespacing="210.99999%"
+         y="778.79224"
+         x="789.6593"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:210.99998951%;letter-spacing:2.5px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
          id="text3397"
          xml:space="preserve"><tspan
-           y="803.34979"
-           x="743.81848"
+           y="778.79224"
+           x="789.6593"
            sodipodi:role="line"
-           id="tspan3399">p,,ndmgdmgrsrd</tspan><tspan
-           y="823.34979"
-           x="743.81848"
+           id="tspan3399">p,,ndmg dmgr sr d s,,</tspan><tspan
+           y="806.22223"
+           x="789.6593"
            sodipodi:role="line"
-           id="tspan3401">s,,rgrgmsrgmdmgrgm</tspan><tspan
-           y="843.34979"
-           x="743.81848"
+           id="tspan3401">rg rgm srgm dmgr gmp,,</tspan><tspan
+           y="833.65222"
+           x="789.6593"
            sodipodi:role="line"
-           id="tspan3403">p,,ndnmdndmgrg</tspan><tspan
-           y="863.34979"
-           x="743.81848"
+           id="tspan3405">ndn mdnd mgrg s,,</tspan><tspan
+           y="861.08221"
+           x="789.6593"
            sodipodi:role="line"
-           id="tspan3405">s,,rgmdnmdsndmgrgm</tspan><tspan
-           y="883.34979"
-           x="743.81848"
+           id="tspan3407">rgmdn mdsnd mgr gmp,,</tspan><tspan
+           y="888.51221"
+           x="789.6593"
            sodipodi:role="line"
-           id="tspan3407">p,,dndnpdprsnd</tspan><tspan
-           y="903.34979"
-           x="743.81848"
+           id="tspan3409">dn dn pdp rsnd s,,</tspan><tspan
+           y="915.9422"
+           x="789.6593"
            sodipodi:role="line"
-           id="tspan3409">s,,rgrndmdrndmgrgm</tspan><tspan
-           y="923.34979"
-           x="743.81848"
+           id="tspan3411">rgrnd md rnd mgr gmp,,</tspan><tspan
+           y="943.37225"
+           x="789.6593"
            sodipodi:role="line"
-           id="tspan3411">p,,dmdsr</tspan><tspan
-           y="943.34979"
-           x="743.81848"
+           id="tspan3431">dmdsr</tspan><tspan
+           y="970.80225"
+           x="789.6593"
            sodipodi:role="line"
-           id="tspan3413">gr,snd-rs,ndm-dm,grs</tspan><tspan
-           y="963.34979"
-           x="743.81848"
-           sodipodi:role="line"
-           id="tspan3415">ds,rgm</tspan></text>
+           id="tspan3415">gr,snd-rs,ndm-dm,grs-ds,rgm</tspan></text>
     </g>
   </g>
   <g
@@ -2250,11 +2255,22 @@
      sodipodi:linespacing="125%"
      id="text4253"
      y="706.31494"
-     x="42.519684"
+     x="53.149605"
      style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Italic"
      xml:space="preserve"><tspan
        y="706.31494"
-       x="42.519684"
+       x="53.149605"
        id="tspan4255"
-       sodipodi:role="line">Version: </tspan></text>
+       sodipodi:role="line">Parama Pavana, Purvikalyani</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Italic"
+     x="522.9751"
+     y="706.31494"
+     id="text4536"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4538"
+       x="522.9751"
+       y="706.31494">1</tspan></text>
 </svg>
