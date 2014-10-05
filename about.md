@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Carnatic Scores repository has a collection of beautiful, hand-crafted Notations for Krithis, Keerthanas, Varnams and other carnatic compositions. I create these scores for my own personal use. Licensed under Creative Commons. Free to download, print, and share for non-commercial purposes.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am Ananth. I compose music.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can listen to and find out more about my music at [Beautifulnote.com](http://beautifulnote.com/blog) 
+
+My other [Open Source Projects](http://ananthp.github.io)

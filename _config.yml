@@ -1,6 +1,6 @@
 # Site settings
 title: Carnatic Scores
-email:  ananthp@users.noreply.github.com
+# email:  ananthp@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
   Licensed under Creative Commons. Free to download, print, and share for non-commercial purposes.
 baseurl: "/carnatic_scores"
