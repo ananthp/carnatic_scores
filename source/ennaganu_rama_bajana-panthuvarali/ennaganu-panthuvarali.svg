@@ -13,9 +13,9 @@
    height="1052.3622"
    id="svg5642"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="ennaganu-panthuvarali.svg"
-   inkscape:export-filename="/home/ananth/Pictures/rama_ni_pai_thanaku--kedaram.png"
+   inkscape:export-filename="/tmp/sample.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -24,12 +24,12 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3146173"
-     inkscape:cx="571.38478"
-     inkscape:cy="199.73481"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="1.7275421"
+     inkscape:cx="479.04813"
+     inkscape:cy="310.46962"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="mm"
      inkscape:window-width="1920"
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5290,7 +5290,7 @@
        sodipodi:cy="-120.47245"
        sodipodi:rx="1.5"
        sodipodi:ry="1.5"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        transform="matrix(0.5,0,0,0.5,232.53945,226.02165)" />
     <path
        sodipodi:type="arc"
@@ -5300,7 +5300,7 @@
        sodipodi:cy="-120.47245"
        sodipodi:rx="1.5"
        sodipodi:ry="1.5"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        transform="matrix(0.5,0,0,0.5,253.13401,226.02165)" />
     <path
        sodipodi:type="arc"
@@ -5310,7 +5310,7 @@
        sodipodi:cy="-120.47245"
        sodipodi:rx="1.5"
        sodipodi:ry="1.5"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        transform="matrix(0.5,0,0,0.5,298.89013,226.02165)" />
     <path
        sodipodi:type="arc"
@@ -5320,7 +5320,7 @@
        sodipodi:cy="-120.47245"
        sodipodi:rx="1.5"
        sodipodi:ry="1.5"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        transform="matrix(0.5,0,0,0.5,306.70229,226.02165)" />
     <path
        sodipodi:type="arc"
@@ -5550,7 +5550,7 @@
        sodipodi:cy="-120.47245"
        sodipodi:rx="1.5"
        sodipodi:ry="1.5"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        transform="matrix(0.5,0,0,0.5,541.72468,580.35236)" />
     <path
        sodipodi:type="arc"
@@ -5930,11 +5930,11 @@
        sodipodi:cy="-120.47245"
        sodipodi:rx="1.5"
        sodipodi:ry="1.5"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        transform="matrix(0.5,0,0,0.5,447.88452,608.96797)" />
     <path
        transform="matrix(0.5,0,0,0.5,475.287,608.96797)"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        sodipodi:ry="1.5"
        sodipodi:rx="1.5"
        sodipodi:cy="-120.47245"
@@ -5944,7 +5944,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.5,0,0,0.5,525.73252,608.96797)"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        sodipodi:ry="1.5"
        sodipodi:rx="1.5"
        sodipodi:cy="-120.47245"
@@ -5954,7 +5954,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.5,0,0,0.5,541.72468,608.96797)"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        sodipodi:ry="1.5"
        sodipodi:rx="1.5"
        sodipodi:cy="-120.47245"
@@ -5964,7 +5964,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.5,0,0,0.5,455.88452,608.96797)"
-       d="m 114.88583,-120.47245 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="m 114.88583,-120.47245 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82842,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67158,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
        sodipodi:ry="1.5"
        sodipodi:rx="1.5"
        sodipodi:cy="-120.47245"
@@ -5972,6 +5972,23 @@
        style="fill:#000000;stroke:none"
        id="path4209"
        sodipodi:type="arc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="crop"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4129"
+       width="451.50851"
+       height="290.58624"
+       x="102.88045"
+       y="528.0871"
+       inkscape:export-filename="/tmp/sample.png"
+       inkscape:export-xdpi="100.10695"
+       inkscape:export-ydpi="100.10695" />
   </g>
   <g
      inkscape:groupmode="layer"
