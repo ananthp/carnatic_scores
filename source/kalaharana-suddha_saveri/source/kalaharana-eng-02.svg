@@ -13,7 +13,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="kalaharana-eng-02.svg">
   <defs
      id="defs4" />
@@ -22,18 +22,18 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="298.70288"
-     inkscape:cy="1149.1189"
+     inkscape:zoom="1.979899"
+     inkscape:cx="326.46154"
+     inkscape:cy="811.56446"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2627,5 +2627,22 @@
          x="298.95193"
          id="tspan5087"
          sodipodi:role="line">. .</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="crop"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3473"
+       width="473.97299"
+       height="235.67328"
+       x="163.86624"
+       y="151.112"
+       inkscape:export-filename="/tmp/kalaharana-sample.png"
+       inkscape:export-xdpi="130"
+       inkscape:export-ydpi="130" />
   </g>
 </svg>
