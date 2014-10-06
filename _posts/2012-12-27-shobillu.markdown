@@ -10,9 +10,9 @@ Composer: Tyagaraja
 
 Notation Language: English  
 
-# [Download Score: ][notation]
+# [Download Score: Shobillu Saptaswara][notation]
 
-# [Download Score in Western Notation: ][western]
+# [Download Score in Western Notation][western]
 
 
 
