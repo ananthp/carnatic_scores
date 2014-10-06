@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kalaharana melara"
+title: "Kalaharana Melara"
 tags: scores english suddha-saveri rupakam tyagaraja
 ---
 
