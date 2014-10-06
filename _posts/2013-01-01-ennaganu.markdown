@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Ennaganu"
+tags: scores english tyagaraja panthuvarali rupakam
+---
+
+Ragam: Panthuvarali  
+Thalam: Rupakam  
+Composer: Tyagaraja  
+
+Notation Language: English  
+
+# [Download Score: ][notation]
+
+
+
+[notation]: https://github.com/ananthp/carnatic_scores/blob/master/ennaganu-panthuvarali.pdf?raw=true

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Shobillu Saptaswara"
+tags: scores english tyagaraja jaganmohini rupakam
+---
+
+Ragam: Jaganmohini  
+Thalam: Rupakam  
+Composer: Tyagaraja  
+
+Notation Language: English  
+
+# [Download Score: ][notation]
+
+# [Download Score in Western Notation: ][western]
+
+
+
+[notation]: https://github.com/ananthp/carnatic_scores/blob/master/shobillu-jaganmohini-eng.pdf?raw=true
+[western]: https://github.com/ananthp/carnatic_scores/blob/master/shobillu-score.pdf?raw=true
