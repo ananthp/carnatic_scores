@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /FAQ/
 ---
 
 ##  What do we have here?
 
-Notations for Carnatic music compositions. 
+Scores (Notations) for Carnatic music compositions. 
 
 ## FREE?
 
@@ -14,7 +14,7 @@ Yes. Anybody can download/print/share for personal, non-commercial use.
 
 ## Who are you?
 
-I am Ananth. I compose music.
+I am Ananth. I compose music.  You can listen to my music and find out more about me at [Beautifulnote.com](http://beautifulnote.com/blog) 
 
 ## Why are you making FREE notations?
 
@@ -22,10 +22,9 @@ Mostly for my own personal use. Most of these compositions are over 100 years ol
 
 ## Your scores look neat. We want to publish them. How do we contact you?
 
-Tweet me: [twitter]
+@ananth me: [twitter]
 
 ## More
-You can listen to and find out more about my music at [Beautifulnote.com](http://beautifulnote.com/blog) 
 
 My other [Open Source Projects](http://ananthp.github.io)
 
