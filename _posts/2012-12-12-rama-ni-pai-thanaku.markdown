@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rama ni pai thanaku"
+title: "Rama Ni Pai Thanaku"
 tags: scores english tyagaraja kedaram adi
 ---
 
