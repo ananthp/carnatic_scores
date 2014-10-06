@@ -4,13 +4,13 @@ title: "Paridhanam"
 tags: scores english patnam-subramanya-iyer kanda-chapu
 ---
 
-Ragam: Bilahari
-Thalam: kanda-chapu 
-Composer: Patnam Subramanya Iyer
+Ragam: Bilahari  
+Thalam: kanda-chapu  
+Composer: Patnam Subramanya Iyer  
 
 Notation Language: English  
 
-# [Download Score: ][notation]
+# [Download Score: Paridhanamichithe ][notation]
 
 
 
