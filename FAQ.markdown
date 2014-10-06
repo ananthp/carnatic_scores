@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /FAQ/
+title: FAQ
+permalink: /faq/
 ---
 
 ##  What do we have here?
