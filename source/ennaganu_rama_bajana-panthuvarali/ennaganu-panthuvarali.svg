@@ -26,10 +26,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7275421"
-     inkscape:cx="479.04813"
-     inkscape:cy="310.46962"
-     inkscape:current-layer="layer6"
+     inkscape:zoom="0.86377105"
+     inkscape:cx="528.51216"
+     inkscape:cy="485.74461"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="mm"
      inkscape:window-width="1920"
@@ -226,18 +226,6 @@
          x="574.77679"
          y="229.6743" /></text>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot4209"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
-       transform="translate(-262.71407,262.26302)"><flowRegion
-         id="flowRegion4211"><rect
-           id="rect4213"
-           width="197.9899"
-           height="71.720833"
-           x="925.29974"
-           y="725.91174"
-           style="font-size:8px;letter-spacing:0px" /></flowRegion><flowPara
-         id="flowPara4215">font: FreeSerif</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3540"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
@@ -3409,21 +3397,6 @@
          sodipodi:role="line">[,]</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Italic"
-       x="54.519684"
-       y="988.58264"
-       id="text4253"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4255"
-         x="54.519684"
-         y="988.58264">Version: Peri Sriramamurthy</tspan><tspan
-         sodipodi:role="line"
-         x="54.519684"
-         y="1006.0826"
-         id="tspan3738">Ananth - Jan 1, 2013 -- beautifulnote.com</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:2.50000000000000000px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
        x="111.10518"
        y="230.31493"
@@ -4643,8 +4616,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path3900"
-       d="m 557.93777,566.92913 18.34646,0"
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 557.93776,566.92912 29.34245,0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
@@ -6815,4 +6788,55 @@
      id="layer5"
      inkscape:label="other"
      transform="translate(0,308.2677)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Footer"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4209"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+       transform="translate(-291.61305,272.84468)"><flowRegion
+         id="flowRegion4211"><rect
+           id="rect4213"
+           width="197.9899"
+           height="71.720833"
+           x="925.29974"
+           y="725.91174"
+           style="font-size:12px;letter-spacing:0px" /></flowRegion><flowPara
+         id="flowPara4215">font: FreeSerif</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Italic"
+       x="398.42374"
+       y="1007.697"
+       id="text4253"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="398.42374"
+         y="1007.697"
+         id="tspan3738">Version: Peri Sriramamurthy</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4131"
+       y="1010.0369"
+       x="42.519684"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Italic"
+       xml:space="preserve"><tspan
+         id="tspan4135"
+         y="1010.0369"
+         x="42.519684"
+         sodipodi:role="line">Ananth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif Italic"
+       x="221.3172"
+       y="1007.6849"
+       id="text4141"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="221.3172"
+         y="1007.6849"
+         id="tspan4143">beautifulnote.com</tspan></text>
+  </g>
 </svg>
