@@ -2,7 +2,7 @@
 layout: default
 ---
 
-A collection of beautiful, hand-crafted Notations for Krithis, Keerthanas, Varnams and other carnatic compositions. Licensed under Creative Commons. Free to download, print, and share for non-commercial purposes.
+A collection of beautiful, hand-crafted Notations for Krithis, Keerthanas, Varnams and other carnatic music compositions. Licensed under Creative Commons. Free to download, print, and share for non-commercial purposes.
 
 ![Carnatic Score Sample][sample]
 
