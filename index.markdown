@@ -11,6 +11,15 @@ A collection of beautiful, hand-crafted Notations for Krithis, Keerthanas, Varna
 
   <h1 class="page-heading">Scores</h1>
 
+  <ul>
+    {% for score in site.data.scores %}
+        <li> {{ score.title }} - {{ score.ragam }} - {{ score.talam }} - {{ score.composer }} <br /> </li>
+        <a href="{{ score.download }}">download</a>
+    {% endfor %}
+  </ul>
+
+-------------
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
